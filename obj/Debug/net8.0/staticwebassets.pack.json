@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\UserApp-Login-and-Registration.bundle.scp.css"
     },
     {
+      "Id": "D:\\Programming Projects\\UserApp-Login-and-Registration\\wwwroot\\css\\account.css",
+      "PackagePath": "staticwebassets\\css\\account.css"
+    },
+    {
       "Id": "D:\\Programming Projects\\UserApp-Login-and-Registration\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "D:\\Programming Projects\\UserApp-Login-and-Registration\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Programming Projects\\UserApp-Login-and-Registration\\wwwroot\\images\\account-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\account-bg.jpg"
     },
     {
       "Id": "D:\\Programming Projects\\UserApp-Login-and-Registration\\wwwroot\\js\\site.js",

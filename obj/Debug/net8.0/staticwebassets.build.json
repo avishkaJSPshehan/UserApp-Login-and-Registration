@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WdaUNaHRrNZCNIGfbxp8Za2lauLgNw1+n1c+Wm5m39o=",
+  "Hash": "u8NATBqh02c4KdQuPa/iBMDL4FPZlh/14z7OFZl1V3s=",
   "Source": "UserApp-Login-and-Registration",
   "BasePath": "_content/UserApp-Login-and-Registration",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "D:\\Programming Projects\\UserApp-Login-and-Registration\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\UserApp-Login-and-Registration.bundle.scp.css"
     },
     {
+      "Identity": "D:\\Programming Projects\\UserApp-Login-and-Registration\\wwwroot\\css\\account.css",
+      "SourceId": "UserApp-Login-and-Registration",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming Projects\\UserApp-Login-and-Registration\\wwwroot\\",
+      "BasePath": "_content/UserApp-Login-and-Registration",
+      "RelativePath": "css/account.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\account.css"
+    },
+    {
       "Identity": "D:\\Programming Projects\\UserApp-Login-and-Registration\\wwwroot\\css\\site.css",
       "SourceId": "UserApp-Login-and-Registration",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "D:\\Programming Projects\\UserApp-Login-and-Registration\\wwwroot\\images\\account-bg.jpg",
+      "SourceId": "UserApp-Login-and-Registration",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Programming Projects\\UserApp-Login-and-Registration\\wwwroot\\",
+      "BasePath": "_content/UserApp-Login-and-Registration",
+      "RelativePath": "images/account-bg.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\account-bg.jpg"
     },
     {
       "Identity": "D:\\Programming Projects\\UserApp-Login-and-Registration\\wwwroot\\js\\site.js",

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("UserApp-Login-and-Registration")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+488fd04150819e0d85612ebbcda69c8595a3be29")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d21b8e5092e83cdde35130df24dd85f1f986660d")]
 [assembly: System.Reflection.AssemblyProductAttribute("UserApp-Login-and-Registration")]
 [assembly: System.Reflection.AssemblyTitleAttribute("UserApp-Login-and-Registration")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
